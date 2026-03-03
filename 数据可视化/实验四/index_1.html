@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>张书晗 D3 可视化练习 </title>
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- 引入 D3.js CDN -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <h1>张书晗作业4 - D3 可视化练习</h1>
+    <!-- ============================================ -->
+    <!-- 系列1: App使用情况径向图 -->
+    <!-- ============================================ -->
+    <div class="chart-container">
+        <h2>App 使用情况径向图 - 系列 1</h2>
+        <div class="chart-row">
+            <!-- App 1 Chart: WeChat -->
+            <div id="app-chart-1" class="app-chart-container">
+            </div>
+            <!-- App 2: Chart: rednote -->
+            <div id="app-chart-2" class="app-chart-container">
+            </div>
+            <!-- App 3 Chart: Bilibili -->
+            <div id="app-chart-3" class="app-chart-container">
+            </div>
+        </div>
+    </div>
+    <!-- ============================================ -->
+    <!-- 系列2: 欧盟领土演变瀑布图 -->
+    <!-- ============================================ -->
+    <div class="chart-container">
+        <h2>欧盟领土演变图 - 系列2</h2>
+        <div id="eu-chart" class="eu-chart-container">
+        </div>
+    </div>
+    
+    <script src="src/data_processor.js"></script>
+    <script src="src/app_chart.js"></script>
+    <script src="src/European_Union.js"></script>
+    <script src="src/main.js"></script>
+
+</body>
+</html>

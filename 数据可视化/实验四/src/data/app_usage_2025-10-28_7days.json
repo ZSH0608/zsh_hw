@@ -1,0 +1,2017 @@
+{
+  "data": [
+    {
+      "apps": [
+        {
+          "appName": "微信",
+          "hourlyUsage": {
+            "7": 21,
+            "8": 393,
+            "9": 478,
+            "10": 180,
+            "11": 197,
+            "12": 798,
+            "13": 62,
+            "14": 17,
+            "15": 2083,
+            "16": 774,
+            "17": 87,
+            "18": 372,
+            "20": 601,
+            "21": 140,
+            "22": 32,
+            "23": 1549
+          },
+          "packageName": "com.tencent.mm",
+          "totalTimeSeconds": 7785
+        },
+        {
+          "appName": "哔哩哔哩",
+          "hourlyUsage": {
+            "7": 586,
+            "9": 18,
+            "15": 677,
+            "16": 2583,
+            "17": 430,
+            "19": 867,
+            "20": 229
+          },
+          "packageName": "tv.danmaku.bili",
+          "totalTimeSeconds": 5391
+        },
+        {
+          "appName": "小红书",
+          "hourlyUsage": {
+            "7": 1746,
+            "8": 295,
+            "9": 1126,
+            "11": 23,
+            "12": 236,
+            "15": 59,
+            "17": 254,
+            "18": 8,
+            "19": 758,
+            "20": 39,
+            "22": 9,
+            "23": 455
+          },
+          "packageName": "com.xingin.xhs",
+          "totalTimeSeconds": 5009
+        },
+        {
+          "appName": "Suki",
+          "hourlyUsage": {
+            "8": 69,
+            "11": 150,
+            "12": 351,
+            "16": 107,
+            "23": 96
+          },
+          "packageName": "com.masseffect.suki",
+          "totalTimeSeconds": 774
+        },
+        {
+          "appName": "京东",
+          "hourlyUsage": {
+            "12": 51,
+            "13": 121,
+            "15": 50,
+            "18": 12,
+            "19": 155,
+            "23": 276
+          },
+          "packageName": "com.jingdong.app.mall",
+          "totalTimeSeconds": 665
+        },
+        {
+          "appName": "支付宝",
+          "hourlyUsage": {
+            "8": 87,
+            "12": 30,
+            "15": 337,
+            "18": 41,
+            "19": 47,
+            "20": 94,
+            "21": 26
+          },
+          "packageName": "com.eg.android.AlipayGphone",
+          "totalTimeSeconds": 662
+        },
+        {
+          "appName": "系统桌面",
+          "hourlyUsage": {
+            "0": 4,
+            "7": 30,
+            "8": 40,
+            "9": 37,
+            "10": 7,
+            "11": 22,
+            "12": 65,
+            "13": 12,
+            "14": 13,
+            "15": 25,
+            "16": 17,
+            "17": 8,
+            "18": 68,
+            "19": 93,
+            "20": 36,
+            "21": 37,
+            "22": 54,
+            "23": 38
+          },
+          "packageName": "com.miui.home",
+          "totalTimeSeconds": 606
+        },
+        {
+          "appName": "飞书",
+          "hourlyUsage": {
+            "11": 10,
+            "12": 366,
+            "21": 45,
+            "23": 7
+          },
+          "packageName": "com.ss.android.lark",
+          "totalTimeSeconds": 428
+        },
+        {
+          "appName": "番茄免费小说",
+          "hourlyUsage": {
+            "0": 23,
+            "7": 13,
+            "8": 2,
+            "13": 12,
+            "17": 65,
+            "18": 72,
+            "21": 64,
+            "22": 75
+          },
+          "packageName": "com.dragon.read",
+          "totalTimeSeconds": 326
+        },
+        {
+          "appName": "懂车帝",
+          "hourlyUsage": {
+            "21": 156,
+            "22": 119
+          },
+          "packageName": "com.ss.android.auto",
+          "totalTimeSeconds": 275
+        },
+        {
+          "appName": "养基宝",
+          "hourlyUsage": {
+            "11": 19,
+            "12": 2,
+            "14": 40,
+            "15": 49,
+            "16": 42,
+            "18": 40,
+            "19": 3,
+            "20": 42,
+            "21": 15,
+            "22": 3
+          },
+          "packageName": "yangjibao.app",
+          "totalTimeSeconds": 255
+        },
+        {
+          "appName": "小米设置",
+          "hourlyUsage": {
+            "20": 87,
+            "21": 44
+          },
+          "packageName": "com.xiaomi.misettings",
+          "totalTimeSeconds": 131
+        },
+        {
+          "appName": "美团",
+          "hourlyUsage": {
+            "13": 12,
+            "18": 93
+          },
+          "packageName": "com.sankuai.meituan",
+          "totalTimeSeconds": 105
+        },
+        {
+          "appName": "中国移动",
+          "hourlyUsage": {
+            "19": 13,
+            "20": 66
+          },
+          "packageName": "com.greenpoint.android.mc10086.activity",
+          "totalTimeSeconds": 79
+        },
+        {
+          "appName": "云闪付",
+          "hourlyUsage": {
+            "7": 5,
+            "9": 14,
+            "13": 8,
+            "18": 48
+          },
+          "packageName": "com.unionpay",
+          "totalTimeSeconds": 75
+        },
+        {
+          "appName": "Via浏览器",
+          "hourlyUsage": {
+            "18": 72
+          },
+          "packageName": "mark.via",
+          "totalTimeSeconds": 72
+        },
+        {
+          "appName": "设置",
+          "hourlyUsage": {
+            "9": 30,
+            "20": 7,
+            "22": 31
+          },
+          "packageName": "com.android.settings",
+          "totalTimeSeconds": 68
+        },
+        {
+          "appName": "时钟",
+          "hourlyUsage": {
+            "0": 14,
+            "6": 50
+          },
+          "packageName": "com.android.deskclock",
+          "totalTimeSeconds": 64
+        },
+        {
+          "appName": "天津地铁",
+          "hourlyUsage": {
+            "8": 33,
+            "22": 29
+          },
+          "packageName": "com.bwton.tjmetro",
+          "totalTimeSeconds": 62
+        },
+        {
+          "appName": "可乐",
+          "hourlyUsage": {
+            "8": 16,
+            "12": 5,
+            "13": 7,
+            "17": 6,
+            "18": 13,
+            "20": 6,
+            "22": 8
+          },
+          "packageName": "com.miaoa.cola",
+          "totalTimeSeconds": 61
+        },
+        {
+          "appName": "京东金融",
+          "hourlyUsage": {
+            "7": 16,
+            "18": 27,
+            "22": 6
+          },
+          "packageName": "com.jd.jrapp",
+          "totalTimeSeconds": 49
+        },
+        {
+          "appName": "应用商店",
+          "hourlyUsage": {
+            "22": 26,
+            "23": 21
+          },
+          "packageName": "com.xiaomi.market",
+          "totalTimeSeconds": 47
+        },
+        {
+          "appName": "同花顺",
+          "hourlyUsage": {
+            "7": 27,
+            "10": 11
+          },
+          "packageName": "com.hexin.plat.android",
+          "totalTimeSeconds": 38
+        },
+        {
+          "appName": "ActivityWatch",
+          "hourlyUsage": {
+            "22": 23,
+            "23": 7
+          },
+          "packageName": "net.activitywatch.android",
+          "totalTimeSeconds": 31
+        },
+        {
+          "appName": "Google Play 商店",
+          "hourlyUsage": {
+            "22": 29
+          },
+          "packageName": "com.android.vending",
+          "totalTimeSeconds": 29
+        },
+        {
+          "appName": "Steam",
+          "hourlyUsage": {
+            "23": 21
+          },
+          "packageName": "com.steampy.app",
+          "totalTimeSeconds": 21
+        },
+        {
+          "appName": "安全中心",
+          "hourlyUsage": {
+            "8": 2,
+            "11": 1,
+            "22": 12
+          },
+          "packageName": "com.miui.securitycenter",
+          "totalTimeSeconds": 15
+        },
+        {
+          "appName": "截屏",
+          "hourlyUsage": {
+            "15": 9,
+            "16": 5
+          },
+          "packageName": "com.miui.screenshot",
+          "totalTimeSeconds": 14
+        },
+        {
+          "appName": "小米智能卡",
+          "hourlyUsage": {
+            "11": 9,
+            "22": 2
+          },
+          "packageName": "com.miui.tsmclient",
+          "totalTimeSeconds": 11
+        },
+        {
+          "appName": "QQ",
+          "hourlyUsage": {
+            "19": 7
+          },
+          "packageName": "com.tencent.mobileqq",
+          "totalTimeSeconds": 7
+        },
+        {
+          "appName": "三方应用异常分析",
+          "hourlyUsage": {
+            "22": 3
+          },
+          "packageName": "com.miui.thirdappassistant",
+          "totalTimeSeconds": 3
+        },
+        {
+          "appName": "Clash",
+          "hourlyUsage": {
+            "18": 1
+          },
+          "packageName": "com.github.kr328.clash",
+          "totalTimeSeconds": 1
+        }
+      ],
+      "date": "2025-10-22"
+    },
+    {
+      "apps": [
+        {
+          "appName": "微信",
+          "hourlyUsage": {
+            "0": 29,
+            "8": 96,
+            "9": 1510,
+            "10": 1636,
+            "11": 629,
+            "12": 798,
+            "13": 733,
+            "14": 425,
+            "15": 1215,
+            "16": 712,
+            "17": 420,
+            "18": 324,
+            "19": 209,
+            "20": 181,
+            "21": 50,
+            "22": 1342,
+            "23": 1228
+          },
+          "packageName": "com.tencent.mm",
+          "totalTimeSeconds": 11539
+        },
+        {
+          "appName": "小红书",
+          "hourlyUsage": {
+            "0": 72,
+            "8": 71,
+            "9": 1975,
+            "10": 412,
+            "11": 178,
+            "12": 56,
+            "13": 261,
+            "14": 1142,
+            "16": 933,
+            "18": 358,
+            "19": 293,
+            "21": 42,
+            "23": 286
+          },
+          "packageName": "com.xingin.xhs",
+          "totalTimeSeconds": 6082
+        },
+        {
+          "appName": "飞书",
+          "hourlyUsage": {
+            "0": 392,
+            "11": 350,
+            "12": 62,
+            "17": 5,
+            "20": 407,
+            "21": 161
+          },
+          "packageName": "com.ss.android.lark",
+          "totalTimeSeconds": 1377
+        },
+        {
+          "appName": "支付宝",
+          "hourlyUsage": {
+            "0": 44,
+            "9": 9,
+            "10": 9,
+            "14": 87,
+            "15": 12,
+            "18": 71,
+            "19": 204,
+            "20": 3,
+            "21": 27,
+            "22": 341,
+            "23": 406
+          },
+          "packageName": "com.eg.android.AlipayGphone",
+          "totalTimeSeconds": 1213
+        },
+        {
+          "appName": "系统桌面",
+          "hourlyUsage": {
+            "0": 119,
+            "8": 15,
+            "9": 22,
+            "10": 35,
+            "11": 111,
+            "12": 33,
+            "13": 38,
+            "14": 37,
+            "15": 94,
+            "16": 77,
+            "17": 16,
+            "18": 59,
+            "19": 55,
+            "20": 4,
+            "21": 39,
+            "22": 45,
+            "23": 305
+          },
+          "packageName": "com.miui.home",
+          "totalTimeSeconds": 1104
+        },
+        {
+          "appName": "Suki",
+          "hourlyUsage": {
+            "8": 72,
+            "10": 26,
+            "13": 177,
+            "14": 234,
+            "15": 69,
+            "22": 98
+          },
+          "packageName": "com.masseffect.suki",
+          "totalTimeSeconds": 676
+        },
+        {
+          "appName": "番茄免费小说",
+          "hourlyUsage": {
+            "0": 77,
+            "1": 94,
+            "2": 19,
+            "8": 1,
+            "11": 47,
+            "12": 105,
+            "13": 117
+          },
+          "packageName": "com.dragon.read",
+          "totalTimeSeconds": 460
+        },
+        {
+          "appName": "养基宝",
+          "hourlyUsage": {
+            "0": 9,
+            "8": 11,
+            "9": 10,
+            "10": 37,
+            "11": 14,
+            "12": 32,
+            "13": 47,
+            "14": 78,
+            "15": 82,
+            "16": 1,
+            "17": 5,
+            "18": 6,
+            "19": 7,
+            "21": 51,
+            "22": 19
+          },
+          "packageName": "yangjibao.app",
+          "totalTimeSeconds": 410
+        },
+        {
+          "appName": "通话界面",
+          "hourlyUsage": {
+            "11": 332
+          },
+          "packageName": "com.android.incallui",
+          "totalTimeSeconds": 332
+        },
+        {
+          "appName": "哔哩哔哩",
+          "hourlyUsage": {
+            "10": 53,
+            "13": 66,
+            "22": 202
+          },
+          "packageName": "tv.danmaku.bili",
+          "totalTimeSeconds": 321
+        },
+        {
+          "appName": "钉钉",
+          "hourlyUsage": {
+            "19": 129
+          },
+          "packageName": "com.alibaba.android.rimet",
+          "totalTimeSeconds": 129
+        },
+        {
+          "appName": "京东",
+          "hourlyUsage": {
+            "10": 103,
+            "18": 25
+          },
+          "packageName": "com.jingdong.app.mall",
+          "totalTimeSeconds": 128
+        },
+        {
+          "appName": "闲鱼",
+          "hourlyUsage": {
+            "0": 78,
+            "14": 46
+          },
+          "packageName": "com.taobao.idlefish",
+          "totalTimeSeconds": 124
+        },
+        {
+          "appName": "应用包管理组件",
+          "hourlyUsage": {
+            "0": 69,
+            "11": 33
+          },
+          "packageName": "com.miui.packageinstaller",
+          "totalTimeSeconds": 102
+        },
+        {
+          "appName": "计算器",
+          "hourlyUsage": {
+            "22": 100,
+            "23": 1
+          },
+          "packageName": "com.miui.calculator",
+          "totalTimeSeconds": 101
+        },
+        {
+          "appName": "可乐",
+          "hourlyUsage": {
+            "14": 11,
+            "16": 6,
+            "18": 13,
+            "19": 11,
+            "22": 53
+          },
+          "packageName": "com.miaoa.cola",
+          "totalTimeSeconds": 94
+        },
+        {
+          "appName": "安全中心",
+          "hourlyUsage": {
+            "0": 50,
+            "11": 40,
+            "22": 1
+          },
+          "packageName": "com.miui.securitycenter",
+          "totalTimeSeconds": 91
+        },
+        {
+          "appName": "QQ",
+          "hourlyUsage": {
+            "11": 74
+          },
+          "packageName": "com.tencent.mobileqq",
+          "totalTimeSeconds": 74
+        },
+        {
+          "appName": "美团",
+          "hourlyUsage": {
+            "19": 62
+          },
+          "packageName": "com.sankuai.meituan",
+          "totalTimeSeconds": 62
+        },
+        {
+          "appName": "IntentResolver",
+          "hourlyUsage": {
+            "0": 32,
+            "11": 22,
+            "12": 3,
+            "21": 2
+          },
+          "packageName": "com.android.intentresolver",
+          "totalTimeSeconds": 60
+        },
+        {
+          "appName": "京东金融",
+          "hourlyUsage": {
+            "0": 14,
+            "8": 11,
+            "16": 8,
+            "19": 8,
+            "22": 9
+          },
+          "packageName": "com.jd.jrapp",
+          "totalTimeSeconds": 50
+        },
+        {
+          "appName": "天津地铁",
+          "hourlyUsage": {
+            "16": 19,
+            "18": 6,
+            "19": 15
+          },
+          "packageName": "com.bwton.tjmetro",
+          "totalTimeSeconds": 40
+        },
+        {
+          "appName": "设置",
+          "hourlyUsage": {
+            "0": 17,
+            "11": 13,
+            "21": 5
+          },
+          "packageName": "com.android.settings",
+          "totalTimeSeconds": 35
+        },
+        {
+          "appName": "懂车帝",
+          "hourlyUsage": {
+            "22": 31
+          },
+          "packageName": "com.ss.android.auto",
+          "totalTimeSeconds": 31
+        },
+        {
+          "appName": "夸克浏览器",
+          "hourlyUsage": {
+            "10": 29
+          },
+          "packageName": "com.quark.browser",
+          "totalTimeSeconds": 29
+        },
+        {
+          "appName": "微博国际版",
+          "hourlyUsage": {
+            "18": 28
+          },
+          "packageName": "com.weico.international",
+          "totalTimeSeconds": 28
+        },
+        {
+          "appName": "Steam",
+          "hourlyUsage": {
+            "18": 26
+          },
+          "packageName": "com.steampy.app",
+          "totalTimeSeconds": 26
+        },
+        {
+          "appName": "云闪付",
+          "hourlyUsage": {
+            "9": 6,
+            "18": 5,
+            "19": 5,
+            "22": 4
+          },
+          "packageName": "com.unionpay",
+          "totalTimeSeconds": 20
+        },
+        {
+          "appName": "同花顺",
+          "hourlyUsage": {
+            "8": 13,
+            "19": 1
+          },
+          "packageName": "com.hexin.plat.android",
+          "totalTimeSeconds": 14
+        },
+        {
+          "appName": "小米账号",
+          "hourlyUsage": {
+            "0": 9
+          },
+          "packageName": "com.xiaomi.account",
+          "totalTimeSeconds": 9
+        },
+        {
+          "appName": "小米智能卡",
+          "hourlyUsage": {
+            "19": 6,
+            "22": 2
+          },
+          "packageName": "com.miui.tsmclient",
+          "totalTimeSeconds": 8
+        },
+        {
+          "appName": "小米设置",
+          "hourlyUsage": {
+            "21": 7
+          },
+          "packageName": "com.xiaomi.misettings",
+          "totalTimeSeconds": 7
+        },
+        {
+          "appName": "截屏",
+          "hourlyUsage": {
+            "9": 6
+          },
+          "packageName": "com.miui.screenshot",
+          "totalTimeSeconds": 6
+        },
+        {
+          "appName": "短信",
+          "hourlyUsage": {
+            "14": 2,
+            "19": 2
+          },
+          "packageName": "com.android.mms",
+          "totalTimeSeconds": 4
+        },
+        {
+          "appName": "高德地图",
+          "hourlyUsage": {
+            "10": 3
+          },
+          "packageName": "com.autonavi.minimap",
+          "totalTimeSeconds": 3
+        },
+        {
+          "appName": "系统界面组件",
+          "hourlyUsage": {
+            "12": 1
+          },
+          "packageName": "miui.systemui.plugin",
+          "totalTimeSeconds": 1
+        },
+        {
+          "appName": "Clash",
+          "hourlyUsage": {
+            "20": 1
+          },
+          "packageName": "com.github.kr328.clash",
+          "totalTimeSeconds": 1
+        }
+      ],
+      "date": "2025-10-23"
+    },
+    {
+      "apps": [
+        {
+          "appName": "小红书",
+          "hourlyUsage": {
+            "0": 68,
+            "7": 1926,
+            "8": 1409,
+            "9": 1294,
+            "10": 200,
+            "11": 246,
+            "14": 70,
+            "17": 506,
+            "18": 393,
+            "21": 317,
+            "22": 286
+          },
+          "packageName": "com.xingin.xhs",
+          "totalTimeSeconds": 6718
+        },
+        {
+          "appName": "微信",
+          "hourlyUsage": {
+            "0": 16,
+            "7": 123,
+            "8": 244,
+            "9": 115,
+            "10": 75,
+            "11": 155,
+            "12": 11,
+            "13": 186,
+            "14": 617,
+            "15": 598,
+            "16": 57,
+            "17": 636,
+            "18": 132,
+            "20": 59,
+            "21": 70,
+            "22": 331,
+            "23": 720
+          },
+          "packageName": "com.tencent.mm",
+          "totalTimeSeconds": 4145
+        },
+        {
+          "appName": "支付宝",
+          "hourlyUsage": {
+            "0": 579,
+            "8": 147,
+            "9": 432,
+            "10": 338,
+            "11": 64,
+            "12": 78,
+            "13": 13,
+            "15": 25,
+            "17": 189,
+            "22": 827,
+            "23": 104
+          },
+          "packageName": "com.eg.android.AlipayGphone",
+          "totalTimeSeconds": 2796
+        },
+        {
+          "appName": "Suki",
+          "hourlyUsage": {
+            "8": 45,
+            "10": 252,
+            "13": 376,
+            "21": 30,
+            "23": 646
+          },
+          "packageName": "com.masseffect.suki",
+          "totalTimeSeconds": 1349
+        },
+        {
+          "appName": "哔哩哔哩",
+          "hourlyUsage": {
+            "8": 188,
+            "9": 217,
+            "10": 832
+          },
+          "packageName": "tv.danmaku.bili",
+          "totalTimeSeconds": 1237
+        },
+        {
+          "appName": "系统桌面",
+          "hourlyUsage": {
+            "0": 38,
+            "7": 5,
+            "8": 61,
+            "9": 43,
+            "10": 47,
+            "11": 15,
+            "12": 64,
+            "13": 42,
+            "14": 32,
+            "15": 23,
+            "16": 4,
+            "17": 66,
+            "18": 19,
+            "19": 24,
+            "20": 52,
+            "21": 126,
+            "22": 64,
+            "23": 9
+          },
+          "packageName": "com.miui.home",
+          "totalTimeSeconds": 734
+        },
+        {
+          "appName": "养基宝",
+          "hourlyUsage": {
+            "8": 73,
+            "10": 65,
+            "12": 27,
+            "13": 38,
+            "14": 8,
+            "15": 6,
+            "16": 2,
+            "17": 49,
+            "18": 10,
+            "19": 33,
+            "20": 5,
+            "22": 50
+          },
+          "packageName": "yangjibao.app",
+          "totalTimeSeconds": 366
+        },
+        {
+          "appName": "京东",
+          "hourlyUsage": {
+            "10": 199,
+            "14": 52,
+            "19": 111
+          },
+          "packageName": "com.jingdong.app.mall",
+          "totalTimeSeconds": 362
+        },
+        {
+          "appName": "美团",
+          "hourlyUsage": {
+            "0": 280
+          },
+          "packageName": "com.sankuai.meituan",
+          "totalTimeSeconds": 280
+        },
+        {
+          "appName": "高德地图",
+          "hourlyUsage": {
+            "14": 107,
+            "15": 17
+          },
+          "packageName": "com.autonavi.minimap",
+          "totalTimeSeconds": 124
+        },
+        {
+          "appName": "番茄免费小说",
+          "hourlyUsage": {
+            "0": 20,
+            "7": 1,
+            "10": 20,
+            "17": 63,
+            "22": 17
+          },
+          "packageName": "com.dragon.read",
+          "totalTimeSeconds": 121
+        },
+        {
+          "appName": "天津地铁",
+          "hourlyUsage": {
+            "13": 10,
+            "17": 42,
+            "18": 11,
+            "21": 10,
+            "22": 9
+          },
+          "packageName": "com.bwton.tjmetro",
+          "totalTimeSeconds": 82
+        },
+        {
+          "appName": "com.max.xiaoheihe",
+          "hourlyUsage": {
+            "11": 65
+          },
+          "packageName": "com.max.xiaoheihe",
+          "totalTimeSeconds": 65
+        },
+        {
+          "appName": "相机",
+          "hourlyUsage": {
+            "20": 14,
+            "21": 38
+          },
+          "packageName": "com.android.camera",
+          "totalTimeSeconds": 52
+        },
+        {
+          "appName": "云闪付",
+          "hourlyUsage": {
+            "13": 44,
+            "17": 6
+          },
+          "packageName": "com.unionpay",
+          "totalTimeSeconds": 50
+        },
+        {
+          "appName": "可乐",
+          "hourlyUsage": {
+            "11": 8,
+            "13": 5,
+            "17": 4,
+            "18": 7,
+            "21": 13,
+            "22": 8
+          },
+          "packageName": "com.miaoa.cola",
+          "totalTimeSeconds": 45
+        },
+        {
+          "appName": "京东金融",
+          "hourlyUsage": {
+            "0": 13,
+            "8": 22,
+            "9": 9
+          },
+          "packageName": "com.jd.jrapp",
+          "totalTimeSeconds": 44
+        },
+        {
+          "appName": "夸克浏览器",
+          "hourlyUsage": {
+            "14": 24,
+            "15": 13
+          },
+          "packageName": "com.quark.browser",
+          "totalTimeSeconds": 37
+        },
+        {
+          "appName": "Steam",
+          "hourlyUsage": {
+            "10": 33
+          },
+          "packageName": "com.steampy.app",
+          "totalTimeSeconds": 33
+        },
+        {
+          "appName": "小米智能卡",
+          "hourlyUsage": {
+            "13": 8,
+            "17": 8,
+            "22": 17
+          },
+          "packageName": "com.miui.tsmclient",
+          "totalTimeSeconds": 33
+        },
+        {
+          "appName": "同花顺",
+          "hourlyUsage": {
+            "8": 15,
+            "10": 13
+          },
+          "packageName": "com.hexin.plat.android",
+          "totalTimeSeconds": 28
+        },
+        {
+          "appName": "微博国际版",
+          "hourlyUsage": {
+            "0": 19,
+            "22": 7
+          },
+          "packageName": "com.weico.international",
+          "totalTimeSeconds": 26
+        },
+        {
+          "appName": "通话界面",
+          "hourlyUsage": {
+            "14": 20
+          },
+          "packageName": "com.android.incallui",
+          "totalTimeSeconds": 20
+        },
+        {
+          "appName": "QQ",
+          "hourlyUsage": {
+            "20": 20
+          },
+          "packageName": "com.tencent.mobileqq",
+          "totalTimeSeconds": 20
+        },
+        {
+          "appName": "网易邮箱",
+          "hourlyUsage": {
+            "8": 17
+          },
+          "packageName": "com.netease.mobimail",
+          "totalTimeSeconds": 17
+        },
+        {
+          "appName": "相册",
+          "hourlyUsage": {
+            "15": 5,
+            "21": 12
+          },
+          "packageName": "com.miui.gallery",
+          "totalTimeSeconds": 17
+        },
+        {
+          "appName": "山姆会员店",
+          "hourlyUsage": {
+            "16": 12,
+            "17": 2
+          },
+          "packageName": "cn.samsclub.app",
+          "totalTimeSeconds": 14
+        },
+        {
+          "appName": "快应用服务框架",
+          "hourlyUsage": {
+            "17": 13
+          },
+          "packageName": "com.miui.hybrid",
+          "totalTimeSeconds": 13
+        },
+        {
+          "appName": "拼多多",
+          "hourlyUsage": {
+            "0": 11
+          },
+          "packageName": "com.xunmeng.pinduoduo",
+          "totalTimeSeconds": 11
+        },
+        {
+          "appName": "安全中心",
+          "hourlyUsage": {
+            "10": 4,
+            "13": 1,
+            "17": 2,
+            "21": 1
+          },
+          "packageName": "com.miui.securitycenter",
+          "totalTimeSeconds": 8
+        },
+        {
+          "appName": "计算器",
+          "hourlyUsage": {
+            "13": 8
+          },
+          "packageName": "com.miui.calculator",
+          "totalTimeSeconds": 8
+        }
+      ],
+      "date": "2025-10-24"
+    },
+    {
+      "apps": [
+        {
+          "appName": "小红书",
+          "hourlyUsage": {
+            "2": 415,
+            "3": 1311,
+            "8": 264,
+            "9": 501,
+            "12": 4,
+            "13": 76,
+            "14": 117,
+            "15": 15,
+            "16": 93,
+            "17": 14
+          },
+          "packageName": "com.xingin.xhs",
+          "totalTimeSeconds": 2812
+        },
+        {
+          "appName": "微信",
+          "hourlyUsage": {
+            "0": 2,
+            "8": 637,
+            "9": 229,
+            "10": 181,
+            "11": 2,
+            "12": 226,
+            "15": 85,
+            "16": 12,
+            "17": 607,
+            "18": 303,
+            "19": 168,
+            "23": 52
+          },
+          "packageName": "com.tencent.mm",
+          "totalTimeSeconds": 2504
+        },
+        {
+          "appName": "美团",
+          "hourlyUsage": {
+            "12": 41,
+            "18": 459,
+            "19": 626,
+            "20": 30,
+            "21": 144
+          },
+          "packageName": "com.sankuai.meituan",
+          "totalTimeSeconds": 1300
+        },
+        {
+          "appName": "支付宝",
+          "hourlyUsage": {
+            "0": 232,
+            "1": 354,
+            "2": 24,
+            "9": 84,
+            "10": 175,
+            "11": 149,
+            "12": 27,
+            "13": 98,
+            "18": 26,
+            "19": 30,
+            "21": 26
+          },
+          "packageName": "com.eg.android.AlipayGphone",
+          "totalTimeSeconds": 1225
+        },
+        {
+          "appName": "哔哩哔哩",
+          "hourlyUsage": {
+            "9": 1197
+          },
+          "packageName": "tv.danmaku.bili",
+          "totalTimeSeconds": 1197
+        },
+        {
+          "appName": "系统桌面",
+          "hourlyUsage": {
+            "0": 4,
+            "1": 1,
+            "2": 5,
+            "3": 3,
+            "8": 25,
+            "9": 33,
+            "10": 3,
+            "11": 20,
+            "12": 78,
+            "13": 5,
+            "16": 7,
+            "17": 2,
+            "18": 15,
+            "19": 20,
+            "21": 15
+          },
+          "packageName": "com.miui.home",
+          "totalTimeSeconds": 236
+        },
+        {
+          "appName": "京东",
+          "hourlyUsage": {
+            "9": 49,
+            "11": 104
+          },
+          "packageName": "com.jingdong.app.mall",
+          "totalTimeSeconds": 153
+        },
+        {
+          "appName": "同花顺",
+          "hourlyUsage": {
+            "8": 118
+          },
+          "packageName": "com.hexin.plat.android",
+          "totalTimeSeconds": 118
+        },
+        {
+          "appName": "云闪付",
+          "hourlyUsage": {
+            "9": 98,
+            "17": 10,
+            "18": 1
+          },
+          "packageName": "com.unionpay",
+          "totalTimeSeconds": 109
+        },
+        {
+          "appName": "通话界面",
+          "hourlyUsage": {
+            "12": 21,
+            "19": 66
+          },
+          "packageName": "com.android.incallui",
+          "totalTimeSeconds": 87
+        },
+        {
+          "appName": "高德地图",
+          "hourlyUsage": {
+            "19": 59
+          },
+          "packageName": "com.autonavi.minimap",
+          "totalTimeSeconds": 59
+        },
+        {
+          "appName": "短信",
+          "hourlyUsage": {
+            "12": 56
+          },
+          "packageName": "com.android.mms",
+          "totalTimeSeconds": 56
+        },
+        {
+          "appName": "Suki",
+          "hourlyUsage": {
+            "8": 34
+          },
+          "packageName": "com.masseffect.suki",
+          "totalTimeSeconds": 34
+        },
+        {
+          "appName": "养基宝",
+          "hourlyUsage": {
+            "8": 3,
+            "9": 29,
+            "17": 1
+          },
+          "packageName": "yangjibao.app",
+          "totalTimeSeconds": 33
+        },
+        {
+          "appName": "微博国际版",
+          "hourlyUsage": {
+            "9": 18
+          },
+          "packageName": "com.weico.international",
+          "totalTimeSeconds": 18
+        },
+        {
+          "appName": "可乐",
+          "hourlyUsage": {
+            "19": 8,
+            "21": 10
+          },
+          "packageName": "com.miaoa.cola",
+          "totalTimeSeconds": 18
+        },
+        {
+          "appName": "京东金融",
+          "hourlyUsage": {
+            "2": 9
+          },
+          "packageName": "com.jd.jrapp",
+          "totalTimeSeconds": 9
+        },
+        {
+          "appName": "番茄免费小说",
+          "hourlyUsage": {
+            "3": 8
+          },
+          "packageName": "com.dragon.read",
+          "totalTimeSeconds": 8
+        },
+        {
+          "appName": "天津地铁",
+          "hourlyUsage": {
+            "18": 1
+          },
+          "packageName": "com.bwton.tjmetro",
+          "totalTimeSeconds": 1
+        }
+      ],
+      "date": "2025-10-25"
+    },
+    {
+      "apps": [
+        {
+          "appName": "微信",
+          "hourlyUsage": {
+            "0": 153,
+            "8": 18,
+            "10": 160,
+            "11": 275,
+            "12": 310,
+            "13": 175,
+            "14": 280,
+            "15": 511,
+            "16": 619,
+            "17": 17,
+            "18": 525,
+            "19": 810,
+            "20": 2650,
+            "21": 7,
+            "22": 892,
+            "23": 1087
+          },
+          "packageName": "com.tencent.mm",
+          "totalTimeSeconds": 8491
+        },
+        {
+          "appName": "小红书",
+          "hourlyUsage": {
+            "0": 58,
+            "8": 119,
+            "10": 16,
+            "11": 2,
+            "12": 314,
+            "13": 281,
+            "14": 892,
+            "15": 29,
+            "16": 1008,
+            "17": 155,
+            "18": 46
+          },
+          "packageName": "com.xingin.xhs",
+          "totalTimeSeconds": 2920
+        },
+        {
+          "appName": "Suki",
+          "hourlyUsage": {
+            "12": 151,
+            "13": 648,
+            "21": 187,
+            "23": 67
+          },
+          "packageName": "com.masseffect.suki",
+          "totalTimeSeconds": 1053
+        },
+        {
+          "appName": "美团",
+          "hourlyUsage": {
+            "12": 84,
+            "13": 247,
+            "20": 11
+          },
+          "packageName": "com.sankuai.meituan",
+          "totalTimeSeconds": 342
+        },
+        {
+          "appName": "系统桌面",
+          "hourlyUsage": {
+            "0": 6,
+            "8": 7,
+            "10": 9,
+            "11": 3,
+            "12": 19,
+            "13": 52,
+            "14": 15,
+            "16": 7,
+            "18": 16,
+            "19": 2,
+            "20": 2,
+            "21": 12,
+            "22": 7,
+            "23": 5
+          },
+          "packageName": "com.miui.home",
+          "totalTimeSeconds": 162
+        },
+        {
+          "appName": "闲鱼",
+          "hourlyUsage": {
+            "8": 122
+          },
+          "packageName": "com.taobao.idlefish",
+          "totalTimeSeconds": 122
+        },
+        {
+          "appName": "同花顺",
+          "hourlyUsage": {
+            "13": 87
+          },
+          "packageName": "com.hexin.plat.android",
+          "totalTimeSeconds": 87
+        },
+        {
+          "appName": "京东",
+          "hourlyUsage": {
+            "0": 2,
+            "14": 68
+          },
+          "packageName": "com.jingdong.app.mall",
+          "totalTimeSeconds": 70
+        },
+        {
+          "appName": "高德地图",
+          "hourlyUsage": {
+            "13": 12,
+            "22": 25
+          },
+          "packageName": "com.autonavi.minimap",
+          "totalTimeSeconds": 37
+        },
+        {
+          "appName": "云闪付",
+          "hourlyUsage": {
+            "12": 13,
+            "13": 7
+          },
+          "packageName": "com.unionpay",
+          "totalTimeSeconds": 20
+        },
+        {
+          "appName": "可乐",
+          "hourlyUsage": {
+            "12": 9,
+            "13": 7
+          },
+          "packageName": "com.miaoa.cola",
+          "totalTimeSeconds": 16
+        },
+        {
+          "appName": "飞书",
+          "hourlyUsage": {
+            "10": 8
+          },
+          "packageName": "com.ss.android.lark",
+          "totalTimeSeconds": 8
+        },
+        {
+          "appName": "com.alibaba.aliyun",
+          "hourlyUsage": {
+            "12": 2
+          },
+          "packageName": "com.alibaba.aliyun",
+          "totalTimeSeconds": 2
+        },
+        {
+          "appName": "系统界面组件",
+          "hourlyUsage": {
+            "21": 2
+          },
+          "packageName": "miui.systemui.plugin",
+          "totalTimeSeconds": 2
+        },
+        {
+          "appName": "安全中心",
+          "hourlyUsage": {
+            "23": 2
+          },
+          "packageName": "com.miui.securitycenter",
+          "totalTimeSeconds": 2
+        },
+        {
+          "appName": "小米智能卡",
+          "hourlyUsage": {
+            "15": 1
+          },
+          "packageName": "com.miui.tsmclient",
+          "totalTimeSeconds": 1
+        }
+      ],
+      "date": "2025-10-26"
+    },
+    {
+      "apps": [
+        {
+          "appName": "小红书",
+          "hourlyUsage": {
+            "0": 1398,
+            "1": 3297,
+            "8": 1499,
+            "9": 971,
+            "12": 12,
+            "13": 64,
+            "16": 332,
+            "17": 164,
+            "18": 26,
+            "23": 444
+          },
+          "packageName": "com.xingin.xhs",
+          "totalTimeSeconds": 8207
+        },
+        {
+          "appName": "微信",
+          "hourlyUsage": {
+            "0": 9,
+            "1": 6,
+            "9": 603,
+            "10": 384,
+            "11": 731,
+            "12": 579,
+            "14": 33,
+            "15": 454,
+            "16": 358,
+            "17": 1455,
+            "18": 61,
+            "19": 673,
+            "20": 1728,
+            "21": 69,
+            "22": 118,
+            "23": 427
+          },
+          "packageName": "com.tencent.mm",
+          "totalTimeSeconds": 7689
+        },
+        {
+          "appName": "飞书",
+          "hourlyUsage": {
+            "0": 15,
+            "14": 3436,
+            "15": 431
+          },
+          "packageName": "com.ss.android.lark",
+          "totalTimeSeconds": 3883
+        },
+        {
+          "appName": "com.comingx.zanao",
+          "hourlyUsage": {
+            "15": 352,
+            "16": 123
+          },
+          "packageName": "com.comingx.zanao",
+          "totalTimeSeconds": 475
+        },
+        {
+          "appName": "系统桌面",
+          "hourlyUsage": {
+            "0": 12,
+            "1": 7,
+            "8": 18,
+            "9": 61,
+            "10": 12,
+            "11": 2,
+            "12": 3,
+            "13": 1,
+            "14": 69,
+            "15": 84,
+            "16": 42,
+            "17": 38,
+            "18": 15,
+            "19": 9,
+            "20": 7,
+            "21": 38,
+            "22": 9,
+            "23": 25
+          },
+          "packageName": "com.miui.home",
+          "totalTimeSeconds": 452
+        },
+        {
+          "appName": "Suki",
+          "hourlyUsage": {
+            "15": 215,
+            "16": 50,
+            "23": 170
+          },
+          "packageName": "com.masseffect.suki",
+          "totalTimeSeconds": 435
+        },
+        {
+          "appName": "哔哩哔哩",
+          "hourlyUsage": {
+            "18": 205,
+            "19": 162
+          },
+          "packageName": "tv.danmaku.bili",
+          "totalTimeSeconds": 367
+        },
+        {
+          "appName": "支付宝",
+          "hourlyUsage": {
+            "8": 54,
+            "16": 143,
+            "17": 56,
+            "21": 97,
+            "23": 13
+          },
+          "packageName": "com.eg.android.AlipayGphone",
+          "totalTimeSeconds": 363
+        },
+        {
+          "appName": "养基宝",
+          "hourlyUsage": {
+            "12": 30,
+            "13": 11,
+            "14": 8,
+            "15": 73,
+            "16": 1,
+            "17": 23,
+            "18": 2,
+            "19": 93,
+            "20": 15,
+            "21": 1
+          },
+          "packageName": "yangjibao.app",
+          "totalTimeSeconds": 257
+        },
+        {
+          "appName": "美团",
+          "hourlyUsage": {
+            "15": 59,
+            "21": 30
+          },
+          "packageName": "com.sankuai.meituan",
+          "totalTimeSeconds": 89
+        },
+        {
+          "appName": "短信",
+          "hourlyUsage": {
+            "0": 53,
+            "8": 2,
+            "9": 4
+          },
+          "packageName": "com.android.mms",
+          "totalTimeSeconds": 59
+        },
+        {
+          "appName": "京东金融",
+          "hourlyUsage": {
+            "10": 5,
+            "21": 42
+          },
+          "packageName": "com.jd.jrapp",
+          "totalTimeSeconds": 47
+        },
+        {
+          "appName": "云闪付",
+          "hourlyUsage": {
+            "8": 6,
+            "9": 5,
+            "10": 5,
+            "17": 10,
+            "21": 18
+          },
+          "packageName": "com.unionpay",
+          "totalTimeSeconds": 44
+        },
+        {
+          "appName": "Clash",
+          "hourlyUsage": {
+            "9": 12,
+            "18": 16
+          },
+          "packageName": "com.github.kr328.clash",
+          "totalTimeSeconds": 28
+        },
+        {
+          "appName": "番茄免费小说",
+          "hourlyUsage": {
+            "1": 14,
+            "8": 11
+          },
+          "packageName": "com.dragon.read",
+          "totalTimeSeconds": 25
+        },
+        {
+          "appName": "可乐",
+          "hourlyUsage": {
+            "16": 4,
+            "18": 11,
+            "21": 6
+          },
+          "packageName": "com.miaoa.cola",
+          "totalTimeSeconds": 21
+        },
+        {
+          "appName": "应用商店",
+          "hourlyUsage": {
+            "15": 6,
+            "16": 13
+          },
+          "packageName": "com.xiaomi.market",
+          "totalTimeSeconds": 19
+        },
+        {
+          "appName": "Via浏览器",
+          "hourlyUsage": {
+            "9": 9,
+            "18": 7
+          },
+          "packageName": "mark.via",
+          "totalTimeSeconds": 16
+        },
+        {
+          "appName": "QQ",
+          "hourlyUsage": {
+            "8": 15
+          },
+          "packageName": "com.tencent.mobileqq",
+          "totalTimeSeconds": 15
+        },
+        {
+          "appName": "通话界面",
+          "hourlyUsage": {
+            "17": 12
+          },
+          "packageName": "com.android.incallui",
+          "totalTimeSeconds": 12
+        },
+        {
+          "appName": "相机",
+          "hourlyUsage": {
+            "18": 11
+          },
+          "packageName": "com.android.camera",
+          "totalTimeSeconds": 11
+        },
+        {
+          "appName": "com.bankcomm.Bankcomm",
+          "hourlyUsage": {
+            "21": 10
+          },
+          "packageName": "com.bankcomm.Bankcomm",
+          "totalTimeSeconds": 10
+        },
+        {
+          "appName": "IntentResolver",
+          "hourlyUsage": {
+            "0": 7
+          },
+          "packageName": "com.android.intentresolver",
+          "totalTimeSeconds": 7
+        },
+        {
+          "appName": "快应用服务框架",
+          "hourlyUsage": {
+            "15": 4,
+            "23": 1
+          },
+          "packageName": "com.miui.hybrid",
+          "totalTimeSeconds": 5
+        },
+        {
+          "appName": "相册",
+          "hourlyUsage": {
+            "18": 4
+          },
+          "packageName": "com.miui.gallery",
+          "totalTimeSeconds": 4
+        },
+        {
+          "appName": "截屏",
+          "hourlyUsage": {
+            "10": 3
+          },
+          "packageName": "com.miui.screenshot",
+          "totalTimeSeconds": 3
+        },
+        {
+          "appName": "淘宝",
+          "hourlyUsage": {
+            "19": 3
+          },
+          "packageName": "com.taobao.taobao",
+          "totalTimeSeconds": 3
+        },
+        {
+          "appName": "系统界面组件",
+          "hourlyUsage": {
+            "9": 1
+          },
+          "packageName": "miui.systemui.plugin",
+          "totalTimeSeconds": 1
+        },
+        {
+          "appName": "京东",
+          "hourlyUsage": {
+            "10": 1
+          },
+          "packageName": "com.jingdong.app.mall",
+          "totalTimeSeconds": 1
+        },
+        {
+          "appName": "小米智能卡",
+          "hourlyUsage": {
+            "19": 1
+          },
+          "packageName": "com.miui.tsmclient",
+          "totalTimeSeconds": 1
+        }
+      ],
+      "date": "2025-10-27"
+    },
+    {
+      "apps": [
+        {
+          "appName": "小红书",
+          "hourlyUsage": {
+            "0": 125,
+            "1": 2991,
+            "2": 350,
+            "8": 2856,
+            "9": 334
+          },
+          "packageName": "com.xingin.xhs",
+          "totalTimeSeconds": 6657
+        },
+        {
+          "appName": "哔哩哔哩",
+          "hourlyUsage": {
+            "2": 936,
+            "9": 735
+          },
+          "packageName": "tv.danmaku.bili",
+          "totalTimeSeconds": 1671
+        },
+        {
+          "appName": "微信",
+          "hourlyUsage": {
+            "9": 426
+          },
+          "packageName": "com.tencent.mm",
+          "totalTimeSeconds": 426
+        },
+        {
+          "appName": "Via浏览器",
+          "hourlyUsage": {
+            "0": 9,
+            "9": 205
+          },
+          "packageName": "mark.via",
+          "totalTimeSeconds": 214
+        },
+        {
+          "appName": "系统桌面",
+          "hourlyUsage": {
+            "0": 19,
+            "1": 4,
+            "2": 8,
+            "8": 11,
+            "9": 75
+          },
+          "packageName": "com.miui.home",
+          "totalTimeSeconds": 117
+        },
+        {
+          "appName": "Clash",
+          "hourlyUsage": {
+            "0": 19,
+            "9": 25
+          },
+          "packageName": "com.github.kr328.clash",
+          "totalTimeSeconds": 44
+        },
+        {
+          "appName": "com.core.bucd",
+          "hourlyUsage": {
+            "9": 38
+          },
+          "packageName": "com.core.bucd",
+          "totalTimeSeconds": 38
+        },
+        {
+          "appName": "Suki",
+          "hourlyUsage": {
+            "9": 33
+          },
+          "packageName": "com.masseffect.suki",
+          "totalTimeSeconds": 33
+        },
+        {
+          "appName": "应用包管理组件",
+          "hourlyUsage": {
+            "9": 23
+          },
+          "packageName": "com.miui.packageinstaller",
+          "totalTimeSeconds": 23
+        },
+        {
+          "appName": "番茄免费小说",
+          "hourlyUsage": {
+            "2": 17,
+            "8": 1
+          },
+          "packageName": "com.dragon.read",
+          "totalTimeSeconds": 18
+        },
+        {
+          "appName": "京东金融",
+          "hourlyUsage": {
+            "9": 11
+          },
+          "packageName": "com.jd.jrapp",
+          "totalTimeSeconds": 11
+        },
+        {
+          "appName": "飞书",
+          "hourlyUsage": {
+            "9": 9
+          },
+          "packageName": "com.ss.android.lark",
+          "totalTimeSeconds": 9
+        },
+        {
+          "appName": "小米账号",
+          "hourlyUsage": {
+            "9": 5
+          },
+          "packageName": "com.xiaomi.account",
+          "totalTimeSeconds": 5
+        },
+        {
+          "appName": "IntentResolver",
+          "hourlyUsage": {
+            "9": 5
+          },
+          "packageName": "com.android.intentresolver",
+          "totalTimeSeconds": 5
+        },
+        {
+          "appName": "VpnDialogs",
+          "hourlyUsage": {
+            "9": 3
+          },
+          "packageName": "com.android.vpndialogs",
+          "totalTimeSeconds": 3
+        },
+        {
+          "appName": "安全中心",
+          "hourlyUsage": {
+            "9": 3
+          },
+          "packageName": "com.miui.securitycenter",
+          "totalTimeSeconds": 3
+        },
+        {
+          "appName": "应用程序扩展服务",
+          "hourlyUsage": {
+            "9": 1
+          },
+          "packageName": "com.miui.contentcatcher",
+          "totalTimeSeconds": 1
+        },
+        {
+          "appName": "权限管理服务",
+          "hourlyUsage": {
+            "9": 1
+          },
+          "packageName": "com.lbe.security.miui",
+          "totalTimeSeconds": 1
+        }
+      ],
+      "date": "2025-10-28"
+    }
+  ],
+  "days": 7,
+  "deviceType": "Android 15",
+  "exportDate": "2025-10-28"
+}

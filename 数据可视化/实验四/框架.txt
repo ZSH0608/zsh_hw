@@ -1,0 +1,11 @@
+D3-Visual-Experiment-4/
+├── index.html           <-- 页面结构和依赖引入 (CDN)
+├── style.css            <-- 公共样式和图表样式
+└── src/
+    ├── data/
+    │   ├── app_usage_2025-10-28_7days.json  <-- 系列1的数据
+    │   └── eu_area_evolution.csv  <-- 系列2的数据
+    ├── **main.js** <-- **程序入口：加载所有数据，调用初始化函数**
+    ├── **app_chart.js** <-- **系列1 径向图组件** (可重用)
+    └── **European_Union.js** <-- **系列2 重制图组件** 
+

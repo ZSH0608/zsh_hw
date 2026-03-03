@@ -1,0 +1,208 @@
+/* --- D3 Tooltip Styles --- */
+.d3-tooltip {
+    position: absolute;
+    text-align: left;
+    padding: 12px;
+    font-size: 14px;
+    background: rgba(255, 255, 255, 0.98);
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.1s;
+    z-index: 50;
+    color: #1e293b;
+    font-family: 'Inter', sans-serif;
+    min-width: 150px;
+    line-height: 1.4;
+}
+
+/* Pair Plot Tooltip - 独立的样式以防冲突 */
+.pairplot-tooltip {
+    position: absolute;
+    text-align: left;
+    padding: 8px 12px;
+    font-size: 12px;
+    background: rgba(255, 255, 255, 0.98);
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    pointer-events: none;
+    opacity: 0;
+    z-index: 10000;
+    color: #334155;
+    font-family: 'Inter', sans-serif;
+    min-width: 120px;
+}
+
+/* --- Pair Plot Section Animation (New) --- */
+#section-pairplot {
+    transition: max-height 0.5s ease-in-out, opacity 0.5s ease-in-out, margin-top 0.3s ease;
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    margin-top: 0;
+}
+
+#section-pairplot.active {
+    max-height: 600px; /* 足够的高度以容纳内容 */
+    opacity: 1;
+    margin-top: 1rem; /* 展开时增加一点顶部间距 */
+}
+
+/* --- Chart Grid Lines --- */
+.grid-lines line {
+    stroke: #f1f5f9;
+    stroke-dasharray: 4,4;
+}
+
+.grid-lines path {
+    stroke-width: 0;
+}
+
+/* --- Axis Styling --- */
+.tick text {
+    fill: #64748b;
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
+}
+
+.domain {
+    stroke: #cbd5e1;
+}
+
+/* --- Chart Specific Animations --- */
+circle {
+    transition: fill-opacity 0.2s, r 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+/* Focus Group Styles (Chart 1) */
+.focus-box {
+    fill: #e2e8f0;
+    opacity: 0.6;
+    stroke: none; /* 移除边框 */
+}
+
+.focus-text {
+    fill: #475569;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+/* --- 时间分区样式 (Chart 1) --- */
+.partition-bg {
+    transition: opacity 0.2s ease;
+}
+
+.partition-hotspot {
+    transition: fill 0.2s ease, opacity 0.2s ease;
+}
+
+.partition-label {
+    font-family: 'Inter', sans-serif;
+    user-select: none;
+}
+
+/* --- Swarm Plot Styles --- */
+.swarm-dot {
+    transition: opacity 0.2s, r 0.2s;
+}
+
+.swarm-legend {
+    display: flex;
+    justify-content: center;
+    margin: 30px auto 0;
+    gap: 30px;
+    flex-wrap: nowrap;
+    max-width: 100%;
+    overflow-x: visible;
+    padding: 0 20px;
+}
+
+.swarm-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+.swarm-legend-color {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.swarm-legend-text {
+    font-size: 14px;
+    color: #4a5568;
+    white-space: nowrap;
+}
+
+.swarm-stats {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 1px solid #e2e8f0;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.swarm-stat-box {
+    background-color: #f7fafc;
+    padding: 15px;
+    border-radius: 6px;
+    flex: 1;
+    min-width: 180px;
+    text-align: center;
+}
+
+.swarm-stat-value {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.swarm-stat-label {
+    font-size: 14px;
+    color: #718096;
+}
+
+.area-label {
+    font-size: 16px;
+    font-weight: 600;
+    fill: #2d3748;
+}
+
+.area-label-multiline {
+    font-size: 15px;
+    font-weight: 600;
+    fill: #2d3748;
+}
+
+/* Pair-plot 容器样式 */
+.pairplot-container {
+    font-family: 'Inter', sans-serif;
+}
+
+#pairplot-chart-area svg {
+    display: block;
+    margin: auto;
+}
+
+/* Chart 3 Bar Styles */
+.bar-rect {
+    transition: fill-opacity 0.2s;
+}
+.bar-rect:hover {
+    fill-opacity: 0.8;
+}
+
+.chart-container svg {
+  display: block;
+  margin: auto;
+  overflow: visible;
+}

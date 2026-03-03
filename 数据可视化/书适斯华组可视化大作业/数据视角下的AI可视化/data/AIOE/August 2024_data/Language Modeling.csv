@@ -1,0 +1,414 @@
+NAICS,NAICS Description,Language Modeling AIIE
+000001,"Cross-industry, Private Ownership only",0.8432825140746255
+11,"Agriculture, Forestry, Fishing and Hunting",-1.1576389599100518
+113000,Forestry and Logging,-0.7277608244324033
+113300,Logging,-0.6877359834012785
+115000,Support Activities for Agriculture and Forestry,-1.2088346627411506
+115100,Support Activities for Crop Production,-1.352488461363565
+115200,Support Activities for Animal Production,-0.08232020402615224
+21,"Mining, Quarrying, and Oil and Gas Extraction",0.3986834841515146
+211000,Oil and Gas Extraction,1.232256580839681
+211100,Oil and Gas Extraction,1.2663487422495523
+212000,Mining (except Oil and Gas),0.005300648558332413
+212100,Coal Mining,-0.18746819050084473
+212200,Metal Ore Mining,0.18439541695984424
+212300,Nonmetallic Mineral Mining and Quarrying,-0.05916351074303313
+213000,Support Activities for Mining,0.10894492718646173
+213100,Support Activities for Mining,0.13607345347565294
+22,Utilities,0.946303056213079
+221000,Utilities,0.9663829051456156
+221100,"Electric Power Generation, Transmission and Distribution",0.9599324900143366
+221111,Hydroelectric Power Generation,0.3931379581731744
+221112,Fossil Fuel Electric Power Generation,0.43289682966422793
+221113,Nuclear Electric Power Generation,1.1766186775084846
+221114,Solar Electric Power Generation,1.234572668741048
+221115,Wind Electric Power Generation,1.2051156926891313
+221116,Geothermal Electric Power Generation,-0.22793878705067558
+221117,Biomass Electric Power Generation,-0.03260385932935989
+221118,Other Electric Power Generation,1.3544136034394993
+221200,Natural Gas Distribution,1.1693201748689728
+221300,"Water, Sewage and Other Systems",0.6691547000067015
+23,Construction,-0.2554727131312986
+236000,Construction of Buildings,0.3070022055093466
+236100,Residential Building Construction,0.17317383438681422
+236200,Nonresidential Building Construction,0.5090404155993249
+237000,Heavy and Civil Engineering Construction,-0.19639111944290386
+237100,Utility System Construction,-0.2647913066196748
+237130,Power and Communication Line and Related Structures Construction,0.014248595643177191
+237200,Land Subdivision,1.244963510378161
+237300,"Highway, Street, and Bridge Construction",-0.3215762940622816
+237900,Other Heavy and Civil Engineering Construction,0.13385183250531005
+238000,Specialty Trade Contractors,-0.451300277388328
+238100,"Foundation, Structure, and Building Exterior Contractors",-0.702224748540632
+238110,Poured Concrete Foundation and Structure Contractors,-0.8362773653187641
+238140,Masonry Contractors,-1.054043421005414
+238160,Roofing Contractors,-0.5216406962511921
+238200,Building Equipment Contractors,-0.36031822276303366
+238210,Electrical Contractors and Other Wiring Installation Contractors,-0.12565693510308812
+238220,"Plumbing, Heating, and Air-Conditioning Contractors",-0.5472605901348105
+238290,Other Building Equipment Contractors,-0.10114131469986566
+238300,Building Finishing Contractors,-0.6343399778304534
+238310,Drywall and Insulation Contractors,-0.7578341108270894
+238320,Painting and Wall Covering Contractors,-0.7795735359057925
+238900,Other Specialty Trade Contractors,-0.5906821887213007
+31-33,Manufacturing,0.7100165729966322
+311000,Food Manufacturing,-0.035431980733997406
+311100,Animal Food Manufacturing,0.3001756682119013
+311200,Grain and Oilseed Milling,0.6086496057933576
+311300,Sugar and Confectionery Product Manufacturing,0.2912626924942668
+311400,Fruit and Vegetable Preserving and Specialty Food Manufacturing,0.1013902232833794
+311500,Dairy Product Manufacturing,0.07871947815095588
+311600,Animal Slaughtering and Processing,-0.5652178381271671
+311700,Seafood Product Preparation and Packaging,0.05652031567298959
+311800,Bakeries and Tortilla Manufacturing,-0.015313590053983252
+311900,Other Food Manufacturing,0.21316799487533333
+312000,Beverage and Tobacco Product Manufacturing,0.22194515266988454
+312100,Beverage Manufacturing,0.2296463746379159
+312200,Tobacco Manufacturing,0.6467265530838632
+313000,Textile Mills,0.19957906903099917
+313100,"Fiber, Yarn, and Thread Mills",-0.4784595499746203
+313200,Fabric Mills,0.2078831433613757
+313300,Textile and Fabric Finishing and Fabric Coating Mills,0.440579518149151
+314000,Textile Product Mills,0.029004594644102884
+314100,Textile Furnishings Mills,-0.18041567102950862
+314900,Other Textile Product Mills,0.1425629610599797
+315000,Apparel Manufacturing,0.25299412374959085
+315100,Apparel Knitting Mills,-0.35912539184042275
+315200,Cut and Sew Apparel Manufacturing,0.2808945236628676
+315900,Apparel Accessories and Other Apparel Manufacturing,0.0052506802020179846
+316000,Leather and Allied Product Manufacturing,0.008081885509126951
+316100,Leather and Hide Tanning and Finishing,-0.23602400897557604
+316200,Footwear Manufacturing,-0.3793190758128054
+316900,Other Leather and Allied Product Manufacturing,0.20071056838180096
+321000,Wood Product Manufacturing,-0.2614621432772303
+321100,Sawmills and Wood Preservation,-0.5942120142346793
+321200,"Veneer, Plywood, and Engineered Wood Product Manufacturing",-0.16542106052971625
+321900,Other Wood Product Manufacturing,-0.19496251384224772
+322000,Paper Manufacturing,0.3027886522495085
+322100,"Pulp, Paper, and Paperboard Mills",0.4930289036912158
+322200,Converted Paper Product Manufacturing,0.17308246278077807
+323000,Printing and Related Support Activities,0.33636103724125843
+323100,Printing and Related Support Activities,0.32047830878463207
+324000,Petroleum and Coal Products Manufacturing,0.956689976066344
+324100,Petroleum and Coal Products Manufacturing,0.9506771950487988
+325000,Chemical Manufacturing,1.0854798156801537
+3250A1,"Chemical Manufacturing (3251, 3252, 3253, and 3259 only)",1.0025458757770827
+3250A2,Chemical Manufacturing (3255 and 3256 only),0.7700914151466824
+325400,Pharmaceutical and Medicine Manufacturing,1.312260896260448
+326000,Plastics and Rubber Products Manufacturing,0.353066527418362
+326100,Plastics Product Manufacturing,0.3915098063596552
+326200,Rubber Product Manufacturing,0.24029832443945773
+327000,Nonmetallic Mineral Product Manufacturing,-0.3792985126263667
+331000,Primary Metal Manufacturing,0.326926675734097
+331100,Iron and Steel Mills and Ferroalloy Manufacturing,0.1940942840735939
+331200,Steel Product Manufacturing from Purchased Steel,0.246042027733964
+331300,Alumina and Aluminum Production and Processing,0.2274333044363943
+331400,Nonferrous Metal (except Aluminum) Production and Processing,0.47231522766587936
+331500,Foundries,0.30708158458444285
+332000,Fabricated Metal Product Manufacturing,0.3912241387283266
+3320A1,"Fabricated Metal Product Manufacturing (3321, 3322, 3325, 3326, and 3329 only)",0.6905457036202487
+3320A2,Fabricated Metal Product Manufacturing (3323 and 3324 only),0.2745431340919974
+332700,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",0.395259236846863
+332710,Machine Shops,0.4071367302126831
+332720,"Turned Product and Screw, Nut, and Bolt Manufacturing",0.5010906163637778
+332800,"Coating, Engraving, Heat Treating, and Allied Activities",0.0599589566206008
+333000,Machinery Manufacturing,0.9474291780690258
+3330A1,"Machinery Manufacturing (3331, 3332, 3334, and 3339 only)",0.9625032796208927
+333300,Commercial and Service Industry Machinery Manufacturing,1.2177929176223705
+333500,Metalworking Machinery Manufacturing,0.6998119541362902
+333600,"Engine, Turbine, and Power Transmission Equipment Manufacturing",1.0787571098974376
+334000,Computer and Electronic Product Manufacturing,1.441502498933675
+334100,Computer and Peripheral Equipment Manufacturing,1.6768917352871335
+334200,Communications Equipment Manufacturing,1.4586401947351544
+334300,Audio and Video Equipment Manufacturing,1.4519641100139167
+334400,Semiconductor and Other Electronic Component Manufacturing,1.3304652922368134
+334500,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",1.4396840449479598
+334600,Manufacturing and Reproducing Magnetic and Optical Media,1.6871692095481268
+335000,"Electrical Equipment, Appliance, and Component Manufacturing",0.9752785453797596
+335100,Electric Lighting Equipment Manufacturing,1.0079273814855474
+335200,Household Appliance Manufacturing,0.7453364820333219
+335300,Electrical Equipment Manufacturing,1.0582720363694866
+335900,Other Electrical Equipment and Component Manufacturing,0.9751740646940896
+336000,Transportation Equipment Manufacturing,1.0102062269751653
+336100,Motor Vehicle Manufacturing,1.0900722524869981
+336200,Motor Vehicle Body and Trailer Manufacturing,0.24095261059006406
+336300,Motor Vehicle Parts Manufacturing,0.704354408840818
+336400,Aerospace Product and Parts Manufacturing,1.382878685985316
+336500,Railroad Rolling Stock Manufacturing,0.9697756686969985
+336600,Ship and Boat Building,0.37291533968273144
+336900,Other Transportation Equipment Manufacturing,0.626514754898879
+337000,Furniture and Related Product Manufacturing,0.14117350831374736
+3370A1,Furniture and Related Product Manufacturing (3371 and 3372 only),0.1841469925712112
+337900,Other Furniture Related Product Manufacturing,0.07558004470035691
+339000,Miscellaneous Manufacturing,1.0101327801876951
+339100,Medical Equipment and Supplies Manufacturing,1.2341802566088695
+339900,Other Miscellaneous Manufacturing,0.6123792506548277
+339910,Jewelry and Silverware Manufacturing,-0.07143972752804814
+42,Wholesale Trade,0.8084743228152889
+423000,"Merchant Wholesalers, Durable Goods",0.8266198797030742
+4230A1,"Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only)",0.4256806257288058
+423100,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,0.37348101323447475
+423400,Professional and Commercial Equipment and Supplies Merchant Wholesalers,1.481656500127399
+423800,"Machinery, Equipment, and Supplies Merchant Wholesalers",0.7876514801560462
+423820,Farm and Garden Machinery and Equipment Merchant Wholesalers,0.3848748144234941
+424000,"Merchant Wholesalers, Nondurable Goods",0.6076856213716748
+4240A1,"Merchant Wholesalers, Nondurable Goods (4244 and 4248 only)",0.08831478672925536
+4240A2,"Merchant Wholesalers, Nondurable Goods (4242 and 4246 only)",1.4274287295878039
+4240A3,"Merchant Wholesalers, Nondurable Goods (4241, 4247, and 4249 only)",0.2663297878685791
+424300,"Apparel, Piece Goods, and Notions Merchant Wholesalers",1.0656355595591738
+424500,Farm Product Raw Material Merchant Wholesalers,-0.19672047857350272
+425000,Wholesale Trade Agents and Brokers,1.4364840899431093
+425100,Wholesale Trade Agents and Brokers,1.4603350229373275
+44-45,Retail Trade,0.2007746054115727
+441000,Motor Vehicle and Parts Dealers,0.3272599927759863
+441100,Automobile Dealers,0.5683365520496333
+441200,Other Motor Vehicle Dealers,0.4162117132037084
+441300,"Automotive Parts, Accessories, and Tire Retailers",-0.2816082820900483
+444000,Building Material and Garden Equipment and Supplies Dealers,-0.05979404650010241
+444100,Building Material and Supplies Dealers,-0.08295127484475918
+444200,Lawn and Garden Equipment and Supplies Retailers,-0.03336598142499324
+445000,Food and Beverage Retailers,-0.1810691323906705
+4450A1,Food and Beverage Retailers (4451 and 4452 only),-0.15328619638661695
+445300,"Beer, Wine, and Liquor Retailers",0.35798641464165015
+449000,"Furniture, Home Furnishings, Electronics, and Appliance Retailers",0.6338651502561126
+449100,Furniture and Home Furnishings Retailers,0.37372225082214283
+449200,Electronics and Appliance Retailers,0.9030422662637333
+455000,General Merchandise Retailers,-0.1023711314927217
+456000,Health and Personal Care Retailers,0.8269623359811079
+456100,Health and Personal Care Retailers,0.8083335466103396
+456110,Pharmacies and Drug Retailers,0.8002778237773168
+457000,Gasoline Stations and Fuel Dealers,0.2387315240781715
+457100,Gasoline Stations,0.21472478100389691
+457200,Fuel Dealers,-0.0498506960822745
+458000,"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",0.8475291004801204
+458100,Clothing and Clothing Accessories Retailers,0.8215618759600203
+458200,Shoe Retailers,0.9070229407115615
+458300,"Jewelry, Luggage, and Leather Goods Retailers",0.7218936287918369
+459000,"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",0.5817014235444888
+4590A1,Miscellaneous Store Retailers (4594 and 4595 only),0.3941114990154714
+459100,"Sporting Goods, Hobby, and Musical Instrument Retailers",0.7354522723175017
+459110,Sporting Goods Retailers,0.7060401772920701
+459200,Book Retailers and News Dealers,0.6535148034657611
+459300,Florists,0.05360760222243687
+459900,Other Miscellaneous Retailers,0.6423252420129515
+48-49,Transportation and Warehousing,-0.5358435937146994
+481000,Air Transportation,-0.0849854301035262
+481100,Scheduled Air Transportation,-0.16441286513015452
+481200,Nonscheduled Air Transportation,0.7439324935479988
+482000,Rail Transportation,0.01449333405841148
+482100,Rail Transportation,0.012329145150465546
+483000,Water Transportation,0.7749110355955992
+483100,"Deep Sea, Coastal, and Great Lakes Water Transportation",1.16008544807789
+483200,Inland Water Transportation,-0.23500328463035985
+484000,Truck Transportation,-0.6728546597127255
+485000,Transit and Ground Passenger Transportation,0.6787958763227657
+485100,Urban Transit Systems,-0.18276122613860313
+485200,Interurban and Rural Bus Transportation,-0.5241054805819678
+485300,Taxi and Limousine Service,1.8507577096954946
+485400,School and Employee Bus Transportation,0.673688551998212
+485500,Charter Bus Industry,0.02119400028057724
+485900,Other Transit and Ground Passenger Transportation,0.9720550344584546
+486000,Pipeline Transportation,0.9733087579382064
+486100,Pipeline Transportation of Crude Oil,1.2453253935051203
+486200,Pipeline Transportation of Natural Gas,0.9490450157594875
+486900,Other Pipeline Transportation,0.3930035830620439
+487000,Scenic and Sightseeing Transportation,0.13712227489412537
+487100,"Scenic and Sightseeing Transportation, Land",0.04232230082988586
+487200,"Scenic and Sightseeing Transportation, Water",-0.18551147749077546
+487900,"Scenic and Sightseeing Transportation, Other",0.367138322436992
+488000,Support Activities for Transportation,0.7714726733374848
+488100,Support Activities for Air Transportation,0.2594477965225997
+488200,Support Activities for Rail Transportation,-0.46532701453332587
+488300,Support Activities for Water Transportation,-0.4231787955761721
+488400,Support Activities for Road Transportation,-0.6703674121583365
+488500,Freight Transportation Arrangement,1.6137281112023394
+488900,Other Support Activities for Transportation,-0.022390470845265544
+491000,Postal Service (Federal Government),-0.3063412001465275
+491100,Postal Service (Federal Government),-0.3066009321475335
+492000,Couriers and Messengers,-1.391855403819272
+492100,Couriers and Express Delivery Services,-1.39238891888695
+492200,Local Messengers and Local Delivery,-0.8453643659939458
+493000,Warehousing and Storage,-0.930269645238125
+493100,Warehousing and Storage,-0.9532101295368263
+51,Information,1.7934595129220903
+512000,Motion Picture and Sound Recording Industries,1.4216660412590258
+512100,Motion Picture and Video Industries,1.422576943304066
+512130,Motion Picture and Video Exhibition,0.13495072919373036
+512200,Sound Recording Industries,1.7969981660338266
+513000,Publishing Industries,2.010415050963494
+513100,"Newspaper, Periodical, Book, and Directory Publishers",1.8987208223408205
+513110,Newspaper Publishers,1.7468478049894083
+513200,Software Publishers,1.9917971431628487
+516000,Broadcasting and Content Providers,1.8402602368235237
+516100,Radio and Television Broadcasting Stations,1.8030587262727422
+516110,Radio Broadcasting Stations,1.8837458572823422
+516120,Television Broadcasting Stations,1.797352326704685
+516200,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",1.86065130614594
+517000,Telecommunications,1.4867172082697542
+518000,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",2.0276707894705175
+518200,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",2.012024972595824
+519000,"Web Search Portals, Libraries, Archives, and Other Information Services",1.9531011943865857
+519200,"Web Search Portals, Libraries, Archives, and Other Information Services",1.9562577916141648
+52,Finance and Insurance,2.0274965047030546
+521000,Monetary Authorities-Central Bank,2.087283912050095
+521100,Monetary Authorities-Central Bank,2.1267673263088027
+522000,Credit Intermediation and Related Activities,2.0802343858111816
+5220A1,Credit Intermediation and Related Activities (5221 and 5223 only),2.1069591826421417
+522200,Nondepository Credit Intermediation,2.1201149176742504
+522290,Other Nondepository Credit Intermediation,2.084991846862706
+523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",2.1880456758023037
+524000,Insurance Carriers and Related Activities,1.884614236607806
+524100,Insurance Carriers,1.8072228103913222
+524114,Direct Health and Medical Insurance Carriers,1.593602709661617
+524120,"Direct Insurance (except Life, Health, and Medical) Carriers",2.098893609907872
+524200,"Agencies, Brokerages, and Other Insurance Related Activities",2.0739188546699245
+524210,Insurance Agencies and Brokerages,2.231782108727611
+524290,Other Insurance Related Activities,1.796446888100033
+525000,"Funds, Trusts, and Other Financial Vehicles",2.09217691850753
+525100,Insurance and Employee Benefit Funds,1.9600748698203763
+525900,Other Investment Pools and Funds,2.172718206509946
+53,Real Estate and Rental and Leasing,0.999428707544147
+531000,Real Estate,1.2876459417861037
+532000,Rental and Leasing Services,0.2349211735506834
+5320A1,"Rental and Leasing Services (5322, 5323, and 5324 only)",0.11977609521303617
+532100,Automotive Equipment Rental and Leasing,0.31076461749676537
+533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),2.141838417443438
+533100,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),2.1419298998583325
+54,"Professional, Scientific, and Technical Services",1.836919518325619
+541000,"Professional, Scientific, and Technical Services",1.8010014757365094
+541100,Legal Services,2.3266785834517347
+541200,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",2.1224071314470594
+541300,"Architectural, Engineering, and Related Services",1.632379224559932
+541330,Engineering Services,1.7046929297299247
+541380,Testing Laboratories and Services,1.390022209189959
+541400,Specialized Design Services,1.5236566317931508
+541500,Computer Systems Design and Related Services,1.9523020391100516
+541600,"Management, Scientific, and Technical Consulting Services",1.940812663963293
+541700,Scientific Research and Development Services,1.7137902113464998
+541710,"Research and Development in the Physical, Engineering, and Life Sciences",1.713634568285611
+541720,Research and Development in the Social Sciences and Humanities,2.0265994635021807
+541800,"Advertising, Public Relations, and Related Services",1.931819428848714
+541900,"Other Professional, Scientific, and Technical Services",1.3743157604201552
+541920,Photographic Services,0.8656077885763862
+541940,Veterinary Services,0.4217189876011629
+55,Management of Companies and Enterprises,1.845868088596375
+551000,Management of Companies and Enterprises,1.8590993788517005
+551100,Management of Companies and Enterprises,1.8303365312853634
+56,Administrative and Support and Waste Management and Remediation Services,0.4360929541458436
+561000,Administrative and Support Services,0.43825555745986405
+561100,Office Administrative Services,1.8564029566604574
+561200,Facilities Support Services,0.2947538574730396
+561300,Employment Services,0.4452389454544279
+561320,Temporary Help Services,0.2935114086231263
+561400,Business Support Services,1.9189636392688891
+561500,Travel Arrangement and Reservation Services,2.0483815764007853
+561600,Investigation and Security Services,0.07776093714149389
+561610,"Investigation, Guard, and Armored Car Services",-0.0926228563188677
+561620,Security Systems Services,0.7910321748408545
+561700,Services to Buildings and Dwellings,-0.9451135204655692
+561710,Exterminating and Pest Control Services,0.20672673986158768
+561730,Landscaping Services,-1.2535479942619405
+561900,Other Support Services,0.405354411401704
+562000,Waste Management and Remediation Services,-0.23289374098434884
+562100,Waste Collection,-0.7095692670213652
+562200,Waste Treatment and Disposal,0.06535258490238625
+562900,Remediation and Other Waste Management Services,-0.008778494846228403
+61,Educational Services,1.6342807126528036
+611000,Educational Services,1.6168487065708044
+611100,Elementary and Secondary Schools,1.4725868896500185
+611200,Junior Colleges,1.92252433041637
+611300,"Colleges, Universities, and Professional Schools",1.8024175019388786
+611400,Business Schools and Computer and Management Training,2.070767295789287
+611500,Technical and Trade Schools,1.5739817235329865
+611600,Other Schools and Instruction,1.58541118872526
+611700,Educational Support Services,1.9897275720907008
+62,Health Care and Social Assistance,1.0011381210785393
+621000,Ambulatory Health Care Services,1.1117646112974917
+621100,Offices of Physicians,1.2132017841437344
+621200,Offices of Dentists,0.6191572278175594
+621300,Offices of Other Health Practitioners,1.2106113707816186
+621310,Offices of Chiropractors,1.183255940864531
+621320,Offices of Optometrists,1.1368075556650916
+621330,Offices of Mental Health Practitioners (except Physicians),1.8805759932101738
+621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",1.106928047503267
+621390,Offices of All Other Health Practitioners,1.1085144875032922
+621400,Outpatient Care Centers,1.0809003838681328
+621420,Outpatient Mental Health and Substance Abuse Centers,1.3864919961425608
+621500,Medical and Diagnostic Laboratories,1.2442512423609489
+621600,Home Health Care Services,1.0487532675895535
+621900,Other Ambulatory Health Care Services,1.1805242008708363
+621910,Ambulance Services,1.131282206765365
+621990,All Other Ambulatory Health Care Services,1.243323430077268
+622000,Hospitals,0.9854821814703415
+622100,General Medical and Surgical Hospitals,0.997694388794371
+622200,Psychiatric and Substance Abuse Hospitals,0.9688548595826108
+622300,Specialty (except Psychiatric and Substance Abuse) Hospitals,1.0352571622266717
+623000,Nursing and Residential Care Facilities,0.7642915817396354
+623100,Nursing Care Facilities (Skilled Nursing Facilities),0.6842382984277268
+623200,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",1.217878052168747
+623210,Residential Intellectual and Developmental Disability Facilities,1.253793907255261
+623220,Residential Mental Health and Substance Abuse Facilities,1.2162707173522938
+623300,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,0.5894571889116957
+623900,Other Residential Care Facilities,1.1674593109094071
+624000,Social Assistance,1.0597324882086046
+624100,Individual and Family Services,1.448977710727042
+624120,Services for the Elderly and Persons with Disabilities,1.2159149758797072
+624200,"Community Food and Housing, and Emergency and Other Relief Services",1.4336443295100385
+624300,Vocational Rehabilitation Services,1.0251468602350362
+624400,Child Care Services,0.4863484743491131
+71,"Arts, Entertainment, and Recreation",0.5540756861394096
+711000,"Performing Arts, Spectator Sports, and Related Industries",1.1117807367028825
+711100,Performing Arts Companies,1.2079154722435221
+711110,Theater Companies and Dinner Theaters,1.181597754677092
+711200,Spectator Sports,1.0496399526698745
+711300,"Promoters of Performing Arts, Sports, and Similar Events",0.7272179244149538
+711400,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",2.428845761457353
+711500,"Independent Artists, Writers, and Performers",1.458316820679508
+712000,"Museums, Historical Sites, and Similar Institutions",1.3068888567013168
+712100,"Museums, Historical Sites, and Similar Institutions",1.3145292001157594
+713000,"Amusement, Gambling, and Recreation Industries",0.18985724770605472
+713100,Amusement Parks and Arcades,0.3874626185737113
+713200,Gambling Industries,0.6688433938154307
+713900,Other Amusement and Recreation Industries,0.043810947724721216
+713940,Fitness and Recreational Sports Centers,0.13386253061491293
+72,Accommodation and Food Services,-0.24281553323209998
+721000,Accommodation,0.0666473506874753
+721100,Traveler Accommodation,0.05703708351146243
+721120,Casino Hotels,0.17100396041092214
+721200,RV (Recreational Vehicle) Parks and Recreational Camps,0.5334325168250089
+721300,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",-0.13125229704308355
+722000,Food Services and Drinking Places,-0.2782079212754364
+722300,Special Food Services,-0.21864168902013822
+722400,Drinking Places (Alcoholic Beverages),-0.18612316329632891
+722500,Restaurants and Other Eating Places,-0.2622580669723433
+722511,Full-Service Restaurants,-0.4487563557951008
+81,Other Services (except Public Administration),0.7641992903459605
+811000,Repair and Maintenance,-0.18715298956267282
+811100,Automotive Repair and Maintenance,-0.4730999023042032
+811110,Automotive Mechanical and Electrical Repair and Maintenance,-0.29162972973051715
+811120,"Automotive Body, Paint, Interior, and Glass Repair",-0.3320798206394431
+811190,Other Automotive Repair and Maintenance,-0.9400896165857224
+811200,Electronic and Precision Equipment Repair and Maintenance,0.9978736447588001
+811300,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,0.20073917592381685
+811400,Personal and Household Goods Repair and Maintenance,-0.38534661460814157
+812000,Personal and Laundry Services,0.14671825988809303
+812100,Personal Care Services,0.25001488018602763
+812200,Death Care Services,0.38855956810392894
+812300,Drycleaning and Laundry Services,-0.4077226341668275
+812900,Other Personal Services,0.13965377588218297
+813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1.682837720331868
+813100,Religious Organizations,1.5268669708983167
+813200,Grantmaking and Giving Services,2.0993333882228953
+813300,Social Advocacy Organizations,1.7521081311351467
+813400,Civic and Social Organizations,0.7803078200595472
+813900,"Business, Professional, Labor, Political, and Similar Organizations",1.8917933190322804
+813930,Labor Unions and Similar Labor Organizations,2.2054734755013485
+99,"Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",1.335618049128445
+999000,"Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",1.3625278892341803
+999001,"Federal, State, and Local Government, including State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",1.3231934990259644
+999100,Federal Executive Branch (OEWS Designation),1.6005592550287033
+999101,"Federal Government, including the U.S. Postal Service (OEWS Designation)",1.5176283939339172
+999200,"State Government, excluding Schools and Hospitals (OEWS Designation)",1.4692208411955465
+999201,"State Government, including Schools and Hospitals (OEWS Designation)",1.433186519617884
+999300,"Local Government, excluding Schools and Hospitals (OEWS Designation)",0.8546349671884604
+999301,"Local Government, including Schools and Hospitals (OEWS Designation)",1.0374696916003368

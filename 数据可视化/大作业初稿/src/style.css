@@ -1,0 +1,227 @@
+/* Base Font Settings handled by Tailwind in HTML */
+
+/* --- D3 Tooltip Styles --- */
+.d3-tooltip {
+    position: absolute;
+    text-align: left;
+    padding: 12px;
+    font-size: 14px;
+    background: rgba(255, 255, 255, 0.98);
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.1s;
+    z-index: 50;
+    color: #1e293b;
+    font-family: 'Inter', sans-serif;
+    min-width: 150px;
+    line-height: 1.4;
+}
+
+/* --- Chart Grid Lines --- */
+.grid-lines line {
+    stroke: #f1f5f9;
+    stroke-dasharray: 4,4;
+}
+
+.grid-lines path {
+    stroke-width: 0;
+}
+
+/* --- Axis Styling --- */
+.tick text {
+    fill: #64748b;
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
+}
+
+.domain {
+    stroke: #cbd5e1;
+}
+
+/* --- Chart Specific Animations --- */
+circle {
+    transition: fill-opacity 0.2s, r 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+/* Focus Group Styles (Chart 1) */
+.focus-box {
+    fill: #e2e8f0;
+    opacity: 0.6;
+    stroke: none; /* 移除边框 */
+}
+
+.focus-text {
+    fill: #475569;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+/* --- 时间分区样式 (Chart 1) --- */
+.partition-bg {
+    transition: opacity 0.2s ease;
+}
+
+.partition-hotspot {
+    transition: fill 0.2s ease, opacity 0.2s ease;
+}
+
+.partition-label {
+    font-family: 'Inter', sans-serif;
+    user-select: none;
+}
+
+/* --- Modal 样式 --- */
+.partition-modal {
+    font-family: 'Inter', sans-serif;
+}
+
+.partition-modal .modal-content {
+    animation: modalSlideIn 0.3s ease;
+}
+
+@keyframes modalSlideIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9) translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+    }
+}
+
+.partition-modal .modal-close-btn:hover {
+    background: #e2e8f0 !important;
+    color: #1e293b !important;
+}
+
+/* --- Swarm Plot Styles --- */
+.swarm-dot {
+    transition: opacity 0.2s, r 0.2s;
+}
+
+.swarm-legend {
+    display: flex;
+    justify-content: center;
+    margin: 30px auto 0;
+    gap: 30px;
+    flex-wrap: nowrap;
+    max-width: 100%;
+    overflow-x: visible;
+    padding: 0 20px;
+}
+
+.swarm-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+.swarm-legend-color {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.swarm-legend-text {
+    font-size: 14px;
+    color: #4a5568;
+    white-space: nowrap;
+}
+
+.swarm-stats {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 1px solid #e2e8f0;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.swarm-stat-box {
+    background-color: #f7fafc;
+    padding: 15px;
+    border-radius: 6px;
+    flex: 1;
+    min-width: 180px;
+    text-align: center;
+}
+
+.swarm-stat-value {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.swarm-stat-label {
+    font-size: 14px;
+    color: #718096;
+}
+
+.area-label {
+    font-size: 16px;
+    font-weight: 600;
+    fill: #2d3748;
+}
+
+.area-label-multiline {
+    font-size: 15px;
+    font-weight: 600;
+    fill: #2d3748;
+}
+
+.partition-modal .modal-close-btn:active {
+    transform: scale(0.95);
+}
+
+/* Pair-plot 容器样式 */
+.pairplot-container {
+    font-family: 'Inter', sans-serif;
+}
+
+#pairplot-chart-area svg {
+    display: block;
+    margin: auto;
+}
+
+/* Modal 滚动条样式 */
+.modal-body::-webkit-scrollbar {
+    width: 8px;
+}
+
+.modal-body::-webkit-scrollbar-track {
+    background: #f1f5f9;
+    border-radius: 4px;
+}
+
+.modal-body::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
+}
+
+.modal-body::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+}
+
+/* Chart 3 Bar Styles */
+.bar-rect {
+    transition: fill-opacity 0.2s;
+}
+.bar-rect:hover {
+    fill-opacity: 0.8;
+}
+
+.chart-container svg {
+  display: block;
+  margin: auto;
+  overflow: visible;
+}
+
+/* Annotation */

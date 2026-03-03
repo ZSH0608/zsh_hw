@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+:root {
+    --primary-color: #2e7d32; 
+    --secondary-color: #e8f5e9; 
+    --text-color: #333;
+    --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f7f9;
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--secondary-color);
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+
+/* ============================================ */
+/* 图表容器布局 */
+/* ============================================ */
+.chart-container {
+    display: block; 
+    max-width: 1200px;
+    margin: 40px auto; 
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: var(--card-shadow);
+}
+
+.chart-row {
+    display: flex; 
+    flex-direction: column; 
+    gap: 40px; 
+    align-items: center;
+}
+
+/* ============================================ */
+/* 系列1：App使用情况径向图容器 */
+/* ============================================ */
+.app-chart-container {
+    width: 100%; 
+    text-align: center; 
+    margin-bottom: 20px;
+}
+/* 径向图扇形悬停效果 */
+.data-arc:hover {
+    cursor: pointer;
+    filter: brightness(1.1);
+}
+/* ============================================ */
+/* 系列2：欧盟条形堆叠图容器 */
+/* ============================================ */
+.eu-chart-container {
+    width: 100%;
+    min-height: 600px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* 条形样式 */
+.bar {
+    transition: opacity 0.2s, stroke-width 0.2s;
+}
+
+.bar:hover {
+    cursor: pointer;
+    opacity: 0.7 !important;
+    stroke: #333 !important;
+    stroke-width: 2px !important;
+}
+
+/* 连接线样式 */
+.connector-line {
+    pointer-events: none;
+}
+
+
+/* 图例样式 */
+.legend-item {
+    cursor: default;
+}
+
+.legend-item rect {
+    rx: 2;
+    ry: 2;
+}
+
+.legend-item text {
+    font-family: 'Inter', sans-serif;
+}
+
+/* 坐标轴样式 */
+.x-axis text, .y-axis text {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+}
+
+.x-axis path, .y-axis path {
+    stroke: #ccc;
+}
+
+.x-axis line, .y-axis line {
+    stroke: #e0e0e0;
+}
+
+/* ============================================ */
+/* 提示框 (Tooltip) 样式 - 两个系列共用 */
+/* ============================================ */
+#tooltip, .tooltip {
+    position: absolute;
+    padding: 10px 15px;
+    background: rgba(46, 125, 50, 0.95);
+    color: white;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-size: 13px;
+    max-width: 300px;
+    line-height: 1.5;
+}
+
+#tooltip strong, .tooltip strong {
+    font-weight: 700;
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* 提示框内部样式 */
+.tooltip-date {
+    font-size: 12px;
+    color: #e8f5e9;
+    margin-bottom: 3px;
+}
+
+.tooltip-value {
+    font-weight: 600;
+}
+
+/* ============================================ */
+/* 通用图表标题样式 */
+/* ============================================ */
+.chart-title {
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.chart-subtitle {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+/* ============================================ */
+/* 响应式设计 */
+/* ============================================ */
+@media (max-width: 768px) {
+    .chart-container {
+        padding: 10px;
+    }
+    
+    h1 {
+        font-size: 1.5rem;
+    }
+    
+    h2 {
+        font-size: 1.2rem;
+    }
+    
+    #tooltip, .tooltip {
+        font-size: 11px;
+        padding: 8px 12px;
+    }
+}
